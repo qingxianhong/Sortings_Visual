@@ -3,7 +3,6 @@ Visualize the execution of different sorting algorithms and compare their speed.
 
 Usage: Execute the py.
 
-https://youtu.be/Ed9E4hFPFyE
-[![Demo Video](./排序範例.jpg)][(https://www.youtube.com/watch?v=影片ID](https://youtu.be/Ed9E4hFPFyE))
+[![Demo Video]][(https://www.youtube.com/watch?v=影片ID](https://youtu.be/Ed9E4hFPFyE))
 
 ![Demo](./排序範例.jpg)
